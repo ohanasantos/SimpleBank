@@ -40,4 +40,4 @@ Este projeto implementa um sistema bancário simples em Java com funcionalidades
 - Locale.US (formatação de valores monetários)
 
 ### Conclusão
-Este sistema básico de gerenciamento de contas bancárias em Java oferece uma excelente base para entender manipulação de dados, controle de fluxo e armazenamento simples em memória. O código está funcional, e a minha intenção é expandi-lo para incluir novas funcionalidades no futuro, à medida que meu aprendizado evolui. Meu objetivo é transformar este código simples em um projeto completo, integrando-o a outras tecnologias e utilizando front-end para criar um design mais apresentável e interativo.
+Este sistema básico de gerenciamento de contas bancárias em Java me ofereceu uma excelente base para entender manipulação de dados, controle de fluxo e armazenamento simples em memória. O código está funcional, e a minha intenção é expandi-lo para incluir novas funcionalidades no futuro, à medida que meu aprendizado evolui. Meu objetivo é transformar este código simples em um projeto completo, integrando-o a outras tecnologias e utilizando front-end para criar um design mais apresentável e interativo.
