@@ -3,7 +3,7 @@ O sistema básico está finalizado, mas ainda há melhorias e novas funcionalida
 
 <br>
 
-### Sobre
+### Sobre (v1.0)
 Este projeto implementa um sistema bancário simples em Java com funcionalidades básicas, como cadastro de clientes, consulta de saldo, depósitos e saques. Minha ideia é praticar comandos de entrada e saída de dados, controle de fluxo (switch e if-else), e estruturas como Map e Scanner.
 
 <br>
